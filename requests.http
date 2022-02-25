@@ -1,0 +1,3 @@
+POST http://localhost:8080/HelloWebApp_war_exploded/api/hello-world/Dalia
+###
+POST http://localhost:8080/HelloWebApp_war_exploded/api/hello-world/Evan
